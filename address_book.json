@@ -1,0 +1,22 @@
+[
+  {
+    "firstName": "Savita",
+    "lastName": "Tekale",
+    "address": "123 Main St",
+    "city": "Nanded",
+    "state": "Maharastra",
+    "zip": "12345",
+    "phoneNumber": "123-456-7890",
+    "email": "savita@gmail.com"
+  },
+  {
+    "firstName": "Yogesh",
+    "lastName": "Gunde",
+    "address": "456 Oak St",
+    "city": "Pune",
+    "state": "State2",
+    "zip": "67890",
+    "phoneNumber": "987-654-3210",
+    "email": "yogesh@gmail.com"
+  }
+]
